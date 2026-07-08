@@ -2,7 +2,7 @@
 
 Street Vision is a real-time computer vision pipeline that watches live public EarthCam streams, buffers frames for smooth playback, and lets you detect and track any object you describe in plain text — using OWLv2 and Grounding DINO in parallel, with lightweight continuous visual tracking.
 
-**Demo video:** https://youtu.be/5CmeKAH6b_E?si=rShBGhcFXGG8wet_
+**Demo video:** https://youtu.be/oZiTN4s_GmU
 
 ## Features
 - Live EarthCam HLS stream ingestion (any public EarthCam feed)
