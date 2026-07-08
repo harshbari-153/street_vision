@@ -1,0 +1,5 @@
+vehicle
+blue umbrella
+green shirt human
+flag
+street light
